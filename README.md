@@ -11,3 +11,7 @@ I am a Millionaire!
 I am Successful!
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+I am Healthy!
