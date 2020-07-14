@@ -3,6 +3,8 @@
 
 # TEAM
 
+I am Smart!
+
     <name> -- <role> -- <twitter>
 
 # THANKS
