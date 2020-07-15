@@ -18,3 +18,4 @@ I am Healthy!
 I am very Thankfully!
 I am Awesome!
 I am Successful!
+All rights reserved.
